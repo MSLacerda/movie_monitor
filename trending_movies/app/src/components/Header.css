@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@700&display=swap');
+
+.Header {
+    font-family: 'Assistant', sans-serif;
+    font-size: 4.5em;
+    font-weight: 700;
+}
